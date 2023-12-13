@@ -3,8 +3,6 @@
 <h3 align="center">I am an undergraduate at CSUF and I like problem solving</h3>
 <img align="right" alt="coding" width="400" src="https://i.imgur.com/gK1qnoO.gif">
 
-- 🔭 I’m currently working on **my own website**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
