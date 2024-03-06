@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://Avelez164.io)
-<h1 align="center">Hi 👋,</h1>
-<h3 align="center">I am an undergraduate at CSUF and I like problem solving</h3>
+<h1 align="center">👋,</h1>
+<h3 align="center"></h3>
 <img align="right" alt="coding" width="400" src="https://i.imgur.com/gK1qnoO.gif">
 
 <h3 align="left">Connect with me:</h3>
